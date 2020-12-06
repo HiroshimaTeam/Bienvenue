@@ -1,0 +1,13 @@
+name: Bienvenue
+author: HiroTeam
+version: 1.0.0
+api: 3.0.0
+main: HiroTeam\Bienvenue\main
+website: https://github.com/HiroshimaTeam
+
+commands:
+  bienvenue:
+    description: "Souhaite la bienvenue au joueur !"
+    usage: /bienvenue
+    permission: bienvenue.use
+    
